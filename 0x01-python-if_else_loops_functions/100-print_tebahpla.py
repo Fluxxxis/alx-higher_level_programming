@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-
 # Author - Sanyade Akindayo
 
 i = 0
